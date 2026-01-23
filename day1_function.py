@@ -1,6 +1,6 @@
 # This is for the learning of coding 
 
-def greet_user(name):
+def greet_user(name):   #greet_user is a function name
     message = f"Hello {name}, welcome to DevOps + AI learning"
     return message
 
