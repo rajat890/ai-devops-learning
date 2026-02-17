@@ -5,6 +5,7 @@ class DebugRequest(BaseModel):
     message: str
 
 
+
 app = FastAPI()
 
 @app.get("/")
